@@ -29,5 +29,8 @@
     "swagger-jsdoc": "^6.2.8",
     "swagger-ui-express": "^5.0.0",
     "utf8": "^3.0.0"
+  },
+  "engines": {
+  "node": ">=14.x"
   }
 }
